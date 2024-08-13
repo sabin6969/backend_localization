@@ -1,0 +1,19 @@
+{
+  "name": "backend_localization",
+  "version": "1.0.0",
+  "description": "A practice backend for localization",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "localization"
+  ],
+  "author": "Sabin Poudel",
+  "license": "ISC",
+  "dependencies": {
+    "i18n": "^0.15.1"
+  }
+}
